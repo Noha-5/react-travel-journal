@@ -40,7 +40,7 @@ jobs:
       - name: Build
         run: npm run build
         env:
-        VITE_SOME_SECRET: ${{ secrets.VITE_SOME_SECRET }}
+          VITE_SOME_SECRET: ${{ secrets.VITE_SOME_SECRET }}
       - name: Setup Pages
         uses: actions/configure-pages@v3
       - name: Upload artifact
