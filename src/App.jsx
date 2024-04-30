@@ -9,7 +9,7 @@ export default function App() {
                     {...card}
                />
     })
-    console.log(import.meta.env.VITE_SOME_SECRET)
+    const secret = import.meta.env.VITE_SOME_SECRET
     return (
         <div>
             <Navbar />
