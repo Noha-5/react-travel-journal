@@ -28,13 +28,13 @@ img {
 
 .card {
     display: flex;
-    flex-wrap: wrap;
     flex-direction: column;
     align-items: center;
+    justify-content: center;
     margin: 36px;
     max-width: 600px;
 }
-@media screen and (min-width: 1400px) {
+@media screen and (min-width: 40rem) {
     .card {
         flex-direction: row;
     }
