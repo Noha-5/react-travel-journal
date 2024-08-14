@@ -28,6 +28,7 @@ img {
 
 .card {
     display: flex;
+    flex-wrap: wrap;
     align-items: center;
     margin: 36px;
     max-width: 600px;
