@@ -1,13 +1,13 @@
 export default [
     {
         id: 1,
-        img: "https://source.unsplash.com/WLxQvbMyfas",
+        img: "https://noha-5.github.io/react-travel-journal/images/20240814_211804.jpg",
         country: {
-            name: "japan",
-            place: "Mount Fuji"
+            name: "Saudi Arabia",
+            place: "Jeddah Fakieh Aquarium"
         },
-        date: "12 Jan, 2021 - 24 Jan, 2021",
-        details: "Mount Fuji is the tallest mountain in Japan, standing at 3,776 meters (12,380 feet). Mount Fuji is the single most popular tourist site in Japan, for both Japanese and foreign tourists."
+        date: "24 Aug, 2018",
+        details: "Fakieh Aquarium is the only aquarium for the public in Saudi Arabia and offers education and entertainment by presenting the wonders of the underwater environment of the Red Sea and marvels brought from other seas and oceans around the world."
     },
     {
         id: 2,
